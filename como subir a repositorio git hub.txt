@@ -1,0 +1,15 @@
+aprender como funciona control de versiones(git)
+user : LuisOcp2
+pass : 1002778599Lo
+comandos para agregar a repositorio git hub
+abrir carpeta del proyecto desde git bash here 
+escribir git ini
+git add .(para agregar todos los archivos dentro del folder)(si solo quieres subir un archivo escribir el nombre del archivo)
+git status -s (verificar estado de los archivos a los que se les esta haciendo seguimiento()
+git commit -am(am para subir todos los archivos y agregarlos) "escribir lo que quieras o los cambios que estas realizando sobre el proyecto "}
+git status -s (si aparece vacio es porque hemos agregado correctamente)
+git log --oneline (vemos los commits que hemos hecho)
+ git remote add origin "direccion del repositorio en el que vamos a insertar el proyecto"
+ git push origin master (con este comando ya subimos los archivos si es primera vez te va a pedir autenticacion)
+
+ 
