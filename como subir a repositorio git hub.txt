@@ -1,6 +1,6 @@
 aprender como funciona control de versiones(git)
 user : LuisOcp2
-pass : 1002778599Lo
+pass : 4612597Lm@-
 comandos para agregar a repositorio git hub
 abrir carpeta del proyecto desde git bash here 
 escribir git ini
